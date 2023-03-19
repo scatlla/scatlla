@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning
     Golang
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
     Studying for my upcoming CKS exam
 
 <!--
